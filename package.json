@@ -21,7 +21,7 @@
     "url": "git+https://github.com/lbzcore/baileys.git"
   },
   "license": "MIT",
-  "author": "lbzcore"
+  "author": "lbzcore",
   "main": "lib/index.js",
   "files": [
     "lib/**/*",
